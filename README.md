@@ -1,7 +1,11 @@
 
 # **GPT Llama3 Chat Application**
 
-GPT Llama3 is an AI-powered chat application that allows users to interact with a conversational AI model. This application provides concise answers to user queries and offers detailed explanations when requested.
+"""GPT Llama3 is an AI-powered chat application that allows users to interact with a conversational AI model. This application provides concise answers to user queries and offers detailed explanations when requested."""
+
+# **Custom GPT Chat Application**
+
+Custom GPT is an AI-powered chat application that allows users to interact with a conversational AI model. This application provides concise answers to user queries and offers detailed explanations when requested.
 
 ### **Features:**
 
@@ -21,8 +25,8 @@ Before you begin, ensure you have the following installed:
 
 1. Create a Conda Environment:
    - Run the following command to create a new Conda environment named `gptenv` with Python 3.11:
-     ```
-     conda create -n gptenv python==3.11 -y
+  
+     ```conda create -n gptenv python==3.11 -y
      ```
 
 2. Activate the Environment:
