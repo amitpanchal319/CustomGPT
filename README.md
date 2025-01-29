@@ -1,8 +1,4 @@
 
-# **GPT Llama3 Chat Application**
-
-"""GPT Llama3 is an AI-powered chat application that allows users to interact with a conversational AI model. This application provides concise answers to user queries and offers detailed explanations when requested."""
-
 # **Custom GPT Chat Application**
 
 Custom GPT is an AI-powered chat application that allows users to interact with a conversational AI model. This application provides concise answers to user queries and offers detailed explanations when requested.
