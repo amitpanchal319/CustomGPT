@@ -1,10 +1,10 @@
-# requirements.txt 
+# requirements.txt
 
 python-dotenv
 groq
 pandas
 numpy
+python-dotenv
 pyyaml
 flask
 markdown
-dotenv

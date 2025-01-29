@@ -148,13 +148,13 @@ button:hover {
     padding: 10px; /* Padding inside code blocks */
     overflow-x: auto; /* Allow horizontal scrolling */
     font-family: 'Courier New', monospace; /* Monospace font for code */
- }
- 
+}
+
  /* General styles for lists */
- ul {
+ul {
     padding-left: 20px; /* Indent list items */
- }
- 
- li {
+}
+
+li {
     margin-bottom: 5px; /* Space between list items */
- }
+}

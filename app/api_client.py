@@ -33,5 +33,5 @@ class GroqClient:
             return response
         
         except Exception as e:
-         self.logger.error(f"Error communicating with Groq API: {e}")
+            self.logger.error(f"Error communicating with Groq API: {e}")
         return "Sorry, I couldn't get a response at this time."
